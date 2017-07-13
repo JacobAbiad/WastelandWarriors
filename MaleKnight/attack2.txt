@@ -1,0 +1,75 @@
+attack2.png
+size: 559, 80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MaleKnight027
+  rotate: false
+  xy: 1, 1
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+MaleKnight028
+  rotate: false
+  xy: 63, 1
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+MaleKnight029
+  rotate: false
+  xy: 124, 1
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+MaleKnight030
+  rotate: false
+  xy: 178, 1
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+MaleKnight031
+  rotate: false
+  xy: 242, 1
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+MaleKnight032
+  rotate: false
+  xy: 300, 1
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+MaleKnight033
+  rotate: false
+  xy: 352, 1
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+MaleKnight034
+  rotate: false
+  xy: 403, 1
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+MaleKnight035
+  rotate: false
+  xy: 466, 1
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+MaleKnight036
+  rotate: false
+  xy: 517, 1
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

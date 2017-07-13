@@ -1,0 +1,26 @@
+attack1.png
+size: 225, 66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MechTiger014
+  rotate: false
+  xy: 1, 1
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+MechTiger015
+  rotate: false
+  xy: 58, 1
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+MechTiger017
+  rotate: false
+  xy: 157, 1
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1

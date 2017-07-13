@@ -1,0 +1,40 @@
+attack2.png
+size: 445, 62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MechRhino009
+  rotate: false
+  xy: 1, 1
+  size: 97, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1
+MechRhino010
+  rotate: false
+  xy: 100, 1
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+MechRhino011
+  rotate: false
+  xy: 360, 1
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+MechRhino012
+  rotate: false
+  xy: 274, 1
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+MechRhino013
+  rotate: false
+  xy: 186, 1
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1

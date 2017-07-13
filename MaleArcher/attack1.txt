@@ -1,0 +1,47 @@
+attack1.png
+size: 285, 50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16114123_archer026ATK1
+  rotate: false
+  xy: 1, 1
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+16114136_archer027ATK1
+  rotate: false
+  xy: 42, 1
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+16114154_archer028ATK1
+  rotate: false
+  xy: 93, 1
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+16114218_archer029ATK1
+  rotate: false
+  xy: 144, 1
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+16114235_archer030ATK1
+  rotate: false
+  xy: 195, 1
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+16114251_archer031ATK1
+  rotate: false
+  xy: 246, 1
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1

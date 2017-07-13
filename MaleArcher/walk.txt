@@ -1,0 +1,33 @@
+walk.png
+size: 178, 41
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000archer022RUN
+  rotate: false
+  xy: 1, 1
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+16113915_archer023RUN
+  rotate: false
+  xy: 34, 1
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+16114059_archer024RUN
+  rotate: false
+  xy: 85, 1
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+16114112_archer025RUN
+  rotate: false
+  xy: 123, 1
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+walk.png
+size: 176, 50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FemaleKnight008
+  rotate: false
+  xy: 1, 1
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+FemaleKnight009
+  rotate: false
+  xy: 45, 1
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+FemaleKnight010
+  rotate: false
+  xy: 89, 1
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+FemaleKnight011
+  rotate: false
+  xy: 133, 1
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+attack1.png
+size: 210, 70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MechBeetle002
+  rotate: false
+  xy: 1, 1
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+MechBeetle003
+  rotate: false
+  xy: 55, 1
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+MechBeetle004
+  rotate: false
+  xy: 112, 1
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+MechBeetle005
+  rotate: false
+  xy: 165, 1
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1

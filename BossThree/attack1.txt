@@ -1,0 +1,19 @@
+attack1.png
+size: 174, 62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss 2008
+  rotate: false
+  xy: 1, 1
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+Boss 2010
+  rotate: false
+  xy: 75, 1
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,47 @@
+attack2.png
+size: 530, 62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss 2008
+  rotate: false
+  xy: 1, 1
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+Boss 2009
+  rotate: false
+  xy: 75, 1
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+Boss 2010
+  rotate: false
+  xy: 175, 1
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+Boss 2011
+  rotate: false
+  xy: 275, 1
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+Boss 2012
+  rotate: false
+  xy: 446, 1
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+Boss 2013
+  rotate: false
+  xy: 357, 1
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+attack1.png
+size: 243, 50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FemaleArcher016
+  rotate: false
+  xy: 1, 1
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+FemaleArcher017
+  rotate: false
+  xy: 43, 1
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+FemaleArcher018
+  rotate: false
+  xy: 96, 1
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+FemaleArcher019
+  rotate: false
+  xy: 146, 1
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+FemaleArcher020
+  rotate: false
+  xy: 195, 1
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

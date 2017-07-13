@@ -1,0 +1,33 @@
+walk.png
+size: 168, 50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FemaleArcher008
+  rotate: false
+  xy: 1, 1
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+FemaleArcher009
+  rotate: false
+  xy: 43, 1
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+FemaleArcher010
+  rotate: false
+  xy: 85, 1
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+FemaleArcher011
+  rotate: false
+  xy: 127, 1
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1

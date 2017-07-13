@@ -1,0 +1,33 @@
+
+walk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MaleKnight011
+  rotate: false
+  xy: 1, 1
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+MaleKnight008
+  rotate: false
+  xy: 54, 2
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+MaleKnight009
+  rotate: false
+  xy: 107, 2
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+MaleKnight010
+  rotate: false
+  xy: 160, 2
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1

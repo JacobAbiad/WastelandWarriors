@@ -1,0 +1,26 @@
+attack2.png
+size: 189, 70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MechCrawfish008
+  rotate: false
+  xy: 1, 1
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+MechCrawfish009
+  rotate: false
+  xy: 64, 1
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+MechCrawfish011
+  rotate: false
+  xy: 127, 1
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+attack2.png
+size: 353, 50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MaleArcher054 - Copy
+  rotate: false
+  xy: 1, 1
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+MaleArcher054
+  rotate: false
+  xy: 52, 1
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+MaleArcher055 - Copy
+  rotate: false
+  xy: 103, 1
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+MaleArcher055
+  rotate: false
+  xy: 152, 1
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+MaleArcher056
+  rotate: false
+  xy: 201, 1
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+MaleArcher057
+  rotate: false
+  xy: 252, 1
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+MaleArcher058
+  rotate: false
+  xy: 303, 1
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1

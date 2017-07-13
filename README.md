@@ -1,2 +1,2 @@
 # WastelandWarriors
-Side scrolling 2D shooter
+Side scrolling 2D shooter using LibGDX
